@@ -1,0 +1,7 @@
+uvicorn==0.30.6
+sqlalchemy==2.0.35
+bcrypt==4.2.0
+PyJWT==2.9.0
+yt-dlp
+imageio-ffmpeg
+requests==2.32.3
